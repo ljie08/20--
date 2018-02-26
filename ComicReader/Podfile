@@ -1,0 +1,14 @@
+
+platform :ios, '8.0'
+target 'ComicReader' do
+
+pod "AFNetworking"
+pod "DBSphereTagCloud"
+pod "MPFoldTransition"
+pod "SDWebImage"
+pod "SlimeRefresh"
+pod "AnimatedGIFImageSerialization"
+pod "Masonry"
+pod "FXBlurView"
+
+end

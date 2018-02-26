@@ -1,0 +1,15 @@
+
+/* Class = "UISearchBar"; placeholder = "输入漫画名搜索"; ObjectID = "0QD-Yc-ByH"; */
+"0QD-Yc-ByH.placeholder" = "输入漫画名搜索";
+
+/* Class = "UINavigationItem"; title = "搜索"; ObjectID = "WHL-eI-G4w"; */
+"WHL-eI-G4w.title" = "搜索";
+
+/* Class = "UINavigationItem"; title = "书城"; ObjectID = "Wmp-Bo-CBo"; */
+"Wmp-Bo-CBo.title" = "书城";
+
+/* Class = "UITabBarItem"; title = "搜索"; ObjectID = "gSs-GP-9HS"; */
+"gSs-GP-9HS.title" = "搜索";
+
+/* Class = "UITabBarItem"; title = "书城"; ObjectID = "gUt-dB-DVX"; */
+"gUt-dB-DVX.title" = "书城";
